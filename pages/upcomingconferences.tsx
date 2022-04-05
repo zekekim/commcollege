@@ -1,9 +1,14 @@
 import { Heading, VStack, Image, Text, Table, TableCaption, TableContainer, Tbody, Td, Tfoot, Th, Thead, Tr, Button, Stack, AspectRatio } from "@chakra-ui/react";
+import Head from "next/head";
 import Layout from "./layout";
 
 export default function upcomingconferences() {
     return (
         <Layout>
+            <Head>
+                <title>upcoming conferences</title>
+                <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+            </Head>
             <VStack
             alignItems={'left'}
             py={10}

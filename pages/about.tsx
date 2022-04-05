@@ -1,9 +1,14 @@
 import { Heading, VStack, Text, Image} from "@chakra-ui/react";
+import Head from "next/head";
 import Layout from "./layout";
 
 export default function about() {
     return (
         <Layout>
+            <Head>
+                <title>about us</title>
+                <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+            </Head>
             <VStack
             alignItems={'left'}
             py={10}
