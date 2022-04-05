@@ -1,0 +1,22 @@
+.header {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    background: lightblue;
+    padding: 0rem 0rem 0rem 0rem;
+}
+
+.header h1 {
+    padding: 1rem 0rem;
+}
+
+.navbar {
+    padding: 1rem 5rem;
+    display: grid;
+    grid-template-columns: 50% 10% 10% 10% 10% 10%;
+    align-items: center;
+}
+
+.navbaritem {
+    padding: 1rem 1rem;
+    text-align: center;
+}
