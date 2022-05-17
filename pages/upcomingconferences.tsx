@@ -24,9 +24,9 @@ export default function upcomingconferences() {
                             
                             <Tr>
                                 <Td fontSize={'2xl'} fontWeight={'bold'}><Image maxW= '400px'src='https://seeklogo.com/images/U/university-of-california-berkeley-athletic-logo-815CB73082-seeklogo.com.png' objectFit={'cover'}/></Td>
-                                <Td><strong>January 4th, 2022</strong>
+                                <Td><strong>May 20th, 2022</strong>
                                 <br/>
-                                <strong>10:30 PM</strong></Td>
+                                <strong>5:00-6:00 PM</strong></Td>
                                 <Td>
                                     <Stack spacing={'2em'}>
                                         <Heading>UC Berkeley Tansfer Panel</Heading>
@@ -51,7 +51,6 @@ export default function upcomingconferences() {
                                         Learn more about opportunities at Unity<br/>
                                         interact with a panel of experienced Programmers<br/>
                                         </Text>
-                                        <Button colorScheme={'red'} w={'10em'}>Sign Up</Button>
                                     </Stack>
                                 </Td>
                             </Tr>
