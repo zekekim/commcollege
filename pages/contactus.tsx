@@ -6,7 +6,7 @@ export default function contactus() {
     return (
         <Layout>
             <Head>
-                <title>contact us</title>
+                <title>Contact Us</title>
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
             <VStack
@@ -17,7 +17,7 @@ export default function contactus() {
                 <HStack>
                         <Image src= 'https://d3sq5bmi4w5uj1.cloudfront.net/images/brochure/og_image_poundie.png?1588160432' w='3em' borderRadius={'10'}/>
                         <Heading textAlign={'left'}>
-                            contact us
+                            Contact Us
                         </Heading>
                     </HStack> 
                 <Text>
@@ -30,7 +30,7 @@ export default function contactus() {
                         <Heading size={'lg'}>De Anza College</Heading>
                     </HStack> 
                 </Link>
-                <Link href='#'>
+                <Link href='https://app.groupme.com/join_community/2820/SBd6J1qZ'>
                     <HStack>
                         <Image src= 'https://pbs.twimg.com/profile_images/1195477694663626752/cXQKoeN6_400x400.jpg' w='3em' borderRadius={'10'}/>
                         <Heading size={'lg'}>Irvine Valley College</Heading>

@@ -78,7 +78,7 @@ import { ReactNode } from 'react';
               _hover={{
                 textDecoration: 'none',
               }}>
-              cc conferences
+              CC Conferences
             </Link>
           </Flex>
           <Flex flex={{ base: 1}} justify={{ base: 'center', md: 'left' }}>
@@ -243,15 +243,15 @@ import { ReactNode } from 'react';
   
   const NAV_ITEMS: Array<NavItem> = [
     {
-      label: 'about',
+      label: 'About',
       href: '/about'
     },
     {
-      label: 'upcoming conferences',
+      label: 'Upcoming Conferences',
       href: '/upcomingconferences',
     },
     {
-      label: 'contact us',
+      label: 'Contact Us',
       href: '/contactus',
     },
   ];

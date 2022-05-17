@@ -17,7 +17,7 @@ export default function Home() {
     return(
     <Layout>
         <Head>
-            <title>conference 4 cc</title>
+            <title>Conference 4 CC</title>
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
         <WithBackgroundImage />
