@@ -78,7 +78,7 @@ import { ReactNode } from 'react';
               _hover={{
                 textDecoration: 'none',
               }}>
-              CC Conferences
+              CC Opportunities
             </Link>
           </Flex>
           <Flex flex={{ base: 1}} justify={{ base: 'center', md: 'left' }}>
@@ -247,8 +247,8 @@ import { ReactNode } from 'react';
       href: '/about'
     },
     {
-      label: 'Upcoming Conferences',
-      href: '/upcomingconferences',
+      label: 'Upcoming Opportunities',
+      href: '/upcomingopportunities',
     },
     {
       label: 'Contact Us',
@@ -270,7 +270,7 @@ import { ReactNode } from 'react';
           spacing={4}
           justify={{ base: 'center', md: 'space-between' }}
           align={{ base: 'center', md: 'center' }}>
-          <Text>© 2022 cc conferences.</Text>
+          <Text>© 2022 cc opportunities.</Text>
         </Container>
       </Box>
     );

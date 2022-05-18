@@ -17,7 +17,7 @@ export default function Home() {
     return(
     <Layout>
         <Head>
-            <title>Conference 4 CC</title>
+            <title>CC Opportunities</title>
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
         <WithBackgroundImage />
@@ -46,11 +46,11 @@ export function WithBackgroundImage() {
               fontWeight={700}
               lineHeight={1.2}
               fontSize={useBreakpointValue({ base: '4xl', md: '3xl' })}>
-              Committed to getting community college students the best industry experience.
+              Committed to getting community college students the best industry and transfer experience.
             </Text>
             <Link href='/upcomingconferences' _hover={{textDecoration: 'none',}}>
                 <Button colorScheme={'red'} >
-                    see our conferences
+                    See Our Opportunities
                 </Button>
             </Link>
             

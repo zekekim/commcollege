@@ -15,7 +15,7 @@ export default function about() {
             px={10}
             spacing={6}>
                 <Heading textAlign={'left'}>
-                    About CC For Conferences
+                    About CC Opportunities
                 </Heading>
                 <Image 
                     src={'https://www.tvinsider.com/wp-content/uploads/2020/06/community-cast-full.jpg'} 

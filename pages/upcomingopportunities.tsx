@@ -2,11 +2,11 @@ import { Heading, VStack, Image, Text, Table, TableCaption, TableContainer, Tbod
 import Head from "next/head";
 import Layout from "./layout";
 
-export default function upcomingconferences() {
+export default function upcomingopportunities() {
     return (
         <Layout>
             <Head>
-                <title>Upcoming Conferences</title>
+                <title>Upcoming Opportunities</title>
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
             <VStack
@@ -15,7 +15,7 @@ export default function upcomingconferences() {
             px={10}
             spacing={6}>
                 <Heading textAlign={'left'}>
-                    Upcoming Conferences
+                    Upcoming Opportunities
                 </Heading>
                 <TableContainer>
                     <Table variant='striped' size = 'lg' colorScheme={'gray'}>
