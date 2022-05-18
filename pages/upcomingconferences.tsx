@@ -29,7 +29,7 @@ export default function upcomingconferences() {
                                 <strong>5:00-6:00 PM</strong></Td>
                                 <Td>
                                     <Stack spacing={'2em'}>
-                                        <Heading>UC Berkeley Tansfer Panel</Heading>
+                                        <Heading>UC Berkeley Transfer Panel</Heading>
                                         <Text>
                                         UC Berkeley incoming transfers are hosting a panel for potential transfer students!<br/> 
                                         Join us for tips and tricks on how to excel in your transfer applications.<br/>
