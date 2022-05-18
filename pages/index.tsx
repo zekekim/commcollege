@@ -48,7 +48,7 @@ export function WithBackgroundImage() {
               fontSize={useBreakpointValue({ base: '4xl', md: '3xl' })}>
               Committed to getting community college students the best industry and transfer experience.
             </Text>
-            <Link href='/upcomingconferences' _hover={{textDecoration: 'none',}}>
+            <Link href='/upcomingopportunities' _hover={{textDecoration: 'none',}}>
                 <Button colorScheme={'red'} >
                     See Our Opportunities
                 </Button>
